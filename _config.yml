@@ -1,29 +1,41 @@
-name: ColorbarSalonBham
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.9135226032231003
 title: 'Colorbar Salon Birmingham '
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.0789866775739938
+  brandStrength: 0.4802867
+  lightness: 0.2818042796570808
+  brandColors:
+    - '#F7F7F7'
+    - '#FAE890'
+    - '#6CA588'
+    - '#9A91B4'
+    - '#4A5B7F'
+  rhythmicContrast: 0.07778840092942119
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: ColorbarSalonBham
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#f7f7f7'
-    - '#5d9b82'
-    - '#92c489'
-    - '#d99596'
-    - '#3d3544'
-  brandStrength: 0
-  lightness: 0.28180427965708077
-  saturation: 0.0789866775739938
-  rhythmicContrast: 0.07778840092942119
-purpose: []
+typography_spectrum: 0.9135226032231003
+layout_spectrum: 0
