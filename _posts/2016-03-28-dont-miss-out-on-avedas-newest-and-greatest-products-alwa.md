@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "YUKO’s specialized procedure is also known as Japanese Hair Straightening or Thermal Reconditioning. Each step is specifically tailored to recondition and maintain the health of the hair. YUKO presents high quality result without compromising the hair’s health or vibrancy. \n\n "
-datePublished: '2016-03-28T19:01:30.830Z'
-dateModified: '2016-03-28T19:00:30.943Z'
+datePublished: '2016-03-28T19:04:58.035Z'
+dateModified: '2016-03-28T19:01:40.743Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-28-dont-miss-out-on-avedas-newest-and-greatest-products-alwa.md
