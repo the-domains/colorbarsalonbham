@@ -1,6 +1,6 @@
 name: ColorbarSalonBham
 favicon: null
-layout_spectrum: 0.26043
+layout_spectrum: 0.00417
 typography_spectrum: 0.25743
 title: 'Colorbar Salon Birmingham '
 collections:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#202521'
-    - '#535b6a'
-    - '#c44467'
-    - '#f7b26f'
-  brandStrength: 0.4802867
+    - '#f7f7f7'
+    - '#5d9b82'
+    - '#4e7093'
+    - '#d99595'
+    - '#3d3644'
+  brandStrength: 0.25
   lightness: 0.2818042796570808
   saturation: 0.0789866775739938
   rhythmicContrast: 0.07778840092942119
